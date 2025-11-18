@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     textAlign: 'center',
     marginHorizontal: 20,
-    fontFamily: 'Neue Haas Grotesk Display',
+    fontFamily: 'Inter-Regular',
   },
 });
 
